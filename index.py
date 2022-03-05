@@ -9,3 +9,5 @@ a=b
 b=temp
 
 print (a,b)
+
+print (a+b)
